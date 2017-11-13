@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="org.jsoup.Jsoup"/>
+<fullyQualifiedTypeName name="org.jsoup.nodes.Document"/>
+<fullyQualifiedTypeName name="org.jsoup.select.Elements"/>
+<fullyQualifiedTypeName name="org.jsoup.nodes.Element"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.WebClient"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.HtmlPage"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.DomElement"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.DomNode"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.HtmlHeading3"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.HtmlDivision"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.html.HtmlListItem"/>
+<fullyQualifiedTypeName name="com.gargoylesoftware.htmlunit.javascript.host.dom.NodeList"/>
+<fullyQualifiedTypeName name="java.util.Iterator"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.util.Collections"/>
+</qualifiedTypeNameHistroy>

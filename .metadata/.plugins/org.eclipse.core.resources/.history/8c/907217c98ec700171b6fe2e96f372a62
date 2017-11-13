@@ -1,0 +1,9 @@
+/**
+ * 
+ * @author Marcus Riley
+ * This class stores information about a game from the Unity Showcase.
+ *
+ */
+public class GameInfo {
+	public GameInfo(String title, )
+}

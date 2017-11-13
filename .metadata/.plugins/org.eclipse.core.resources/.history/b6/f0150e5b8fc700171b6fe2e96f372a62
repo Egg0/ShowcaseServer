@@ -1,0 +1,21 @@
+/**
+ * 
+ * @author Marcus Riley
+ * This class stores information about a game from the Unity Showcase.
+ * It provides functionality to get individual elements, or print it to the console
+ *
+ */
+public final class GameInfo {
+	private final String title;
+	private final String image;
+	private final String gameSite;
+	private final String developer;
+	private final String devSite;
+	private final String genre;
+	private final String description;
+	private final String platforms;
+	public GameInfo(String title, String image, String gameSite, String developer, String devSite,
+					String genre, String description, String platforms) {
+		
+	}
+}

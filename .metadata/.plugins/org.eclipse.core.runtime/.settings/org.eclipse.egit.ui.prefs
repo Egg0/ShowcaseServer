@@ -1,0 +1,2 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>Added getters for gameInfo</message>\r\n<message>Wrapped game data in GameInfo and broke down SiteParser main</message>\r\n<message>All data being parsed</message>\r\n<message>Parsing data works</message>\r\n<message>Successfully pulling data</message>\r\n<message>Initial test\: jsoup scraping</message>\r\n<message>Initial commit</message>\r\n</messages>
+eclipse.preferences.version=1
