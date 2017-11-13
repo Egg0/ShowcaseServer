@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Unity Showcase Light</title>
+        <style>
+        	body {
+        		background-color: WhiteSmoke;
+        	    font: 16px/135% 'Roboto',sans-serif;
+        		font-weight: 300;
+        		color: #5a5a5b;
+       		}
+		</style>
+    </head>
+    <body>
+    	<p>Size: ${gameCount}</p>
+    	<p>Indices remaining: ${indices}</p>
+    	<p>Got game at index ${index}</p>
+    	<img src="${image}" />
+         <p>Game Info: ${game}</p>
+    </body>
+</html>

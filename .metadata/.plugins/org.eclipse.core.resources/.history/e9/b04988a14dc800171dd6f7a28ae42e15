@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Unity Showcase Light</title>
+        <style>
+        	body {
+        		background-color: WhiteSmoke;
+        	    font: 16px/135% 'Roboto',sans-serif;
+        		font-weight: 300;
+        		color: #5a5a5b;
+       		}
+       		
+       		img {
+       			height: 20%;
+       			width: 40%;
+       			display: block;
+    			margin: 0 auto;
+       		}
+       		
+       		h1, img {
+       			text-align: center;
+       		}
+       		
+       		#banner {
+       			position: absolute; 
+       			background-color: #DDEEEE; 
+       			width: 100%; 
+       		}
+		</style>
+    </head>
+    <body>
+    	<div id=banner></div>
+    	<h1>${title}</h1>
+    	<a href="${gameSite}">
+    		<img src="${image}" alt="Game Image" />
+ 		</a>
+ 		<h2><em>Developer: </em><a href="${devSite}">${developer}</a></h2>
+ 		<h2><em>Genre(s): </em> ${genre}</h2>
+        <p>${description}</p>
+        <h3><em>Platform(s): </em> ${platforms} </h3>
+    </body>
+</html>

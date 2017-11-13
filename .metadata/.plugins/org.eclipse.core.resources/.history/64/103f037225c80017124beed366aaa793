@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Unity Showcase Light</title>
+        <style>
+        	body {background-color:PowderBlue;}
+		</style>
+    </head>
+    <body>
+    	<p>Size: ${gameCount}</p>
+    	<p>Indices remaining: ${indices}</p>
+    	<p>Got game at index ${index}</p>
+         <p>Game Info: ${game}</p>
+    </body>
+</html>
